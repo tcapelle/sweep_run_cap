@@ -1,0 +1,10 @@
+program: train.py
+run_cap: 4
+
+method: random
+
+project: sweep_cap
+
+parameters:
+  a:
+    values: [1,2,3]
